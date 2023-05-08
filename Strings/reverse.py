@@ -5,7 +5,7 @@ def reverse_string(word):
     reverse += word[i]
   return reverse
 # Uncomment these function calls to test your  function:
-print(reverse_string("Codecademy"))
+print(reverse_string("Ammar elmoghazy"))
 # should print ymedacedoC
 print(reverse_string("Hello world!"))
 # should print !dlrow olleH
