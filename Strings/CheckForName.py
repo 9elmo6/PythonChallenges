@@ -6,8 +6,5 @@ def check_for_name(sentence,name):
     return False
 # Uncomment these function calls to test your  function:
 print(check_for_name("My name is elmo", "Jamie"))
-# should print True
 print(check_for_name("My name is elmo", "elmo"))
-# should print True
 print(check_for_name("My name is Elmo", "elmo"))
-# should print False
